@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">convert</string>
+    <string name="edit_message"></string>
+    <string name="button_send">Send</string>
+    <string-array name="conversion">
+        <item>lbs_to_kg</item>
+        <item>inches_to_cm</item>
+        <item>C_to_F</item>
+        <item>kg_to_lbs</item>
+        <item>cm_to_inches</item>
+        <item>F_to_C</item>
+    </string-array>
+</resources>
