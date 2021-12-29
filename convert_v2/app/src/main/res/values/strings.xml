@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">convert_V2</string>
+    <string name="edit_message"></string>
+    <string name="button_send">Convert</string>
+    <string name="button_update">Update</string>
+    <string-array name="conversion_type">
+        <item>weight</item>
+        <item>temperature</item>
+        <item>length</item>
+        <item>volume</item>
+    </string-array>
+    <string-array name="units_weight">
+        <item>lbs</item>
+        <item>kg</item>
+    </string-array>
+    <string-array name="units_temp">
+        <item>F</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="units_length">
+        <item>cm</item>
+        <item>inches</item>
+    </string-array>
+</resources>
